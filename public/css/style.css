@@ -1,0 +1,49 @@
+
+
+.logo{
+    cursor: pointer;
+}
+
+.spiderman{
+    margin-top: 20px;
+    background-color: rgb(228, 228, 228);
+    border-radius: 20px;
+}
+
+.container {
+    max-width: 700px;
+}
+
+.gradient-text {
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent; 
+}
+
+
+.navLink {
+    color: #fff;
+}
+
+/* Logo */
+.logo{
+    background: #B459CF;
+    background: linear-gradient(to right, #B459CF 0%, #FF4C4C 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+/* Welcome h1 */
+.welcome {
+    background: #20A0CF;
+    background: linear-gradient(to right, #a0aff0 0%, #e6ceff 30%, #424bf4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.collection1, .collection2, .collection3 {
+    border-radius: 20px;
+}
+
+/* Active link */
