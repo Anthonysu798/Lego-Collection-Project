@@ -12,4 +12,4 @@
 * Daisyui - use for creating the cards, nav, etc
 
 ## Host with Render
-* Link to website: https://legocolletionanthony.onrender.com/
+* Link to website: [https://legocolletionanthony.onrender.com/](https://copper-pangolin-tie.cyclic.app/)https://copper-pangolin-tie.cyclic.app/
