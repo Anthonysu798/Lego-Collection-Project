@@ -46,4 +46,18 @@
     border-radius: 20px;
 }
 
-/* Active link */
+.transition-element {
+    transition: background-color 0.2s ease-in-out;
+}
+/* Active link styles */
+.active {
+    background-color: #7e57c2; /* Light purple background */
+    color: white !important; /* White text color */
+    border-radius: 5px; /* Optional: adds rounded corners to the active link */
+    padding: 5px 10px; /* Optional: adds some padding inside the link */
+}
+
+/* Ensures the navLink color doesn't override the active link color */
+.navLink.active {
+    color: white !important;
+}
